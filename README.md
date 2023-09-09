@@ -8,7 +8,7 @@
 ### Наши встречи
 |когда|тема|материалы|дз|
 |---|---|---|---|
-|09.09|Вводный семинар. Python. Арифметика и типы данных| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230909_python_intro_arithmetic.ipynb)|задание + [опрос](https://forms.gle/UbNtY9HHbRBaSz9KA)|
+|09.09|Вводный семинар. Python. Арифметика и типы данных| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230909_python_intro_arithmetic.ipynb)|[задание](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/HW/HW1.ipynb) + [опрос](https://forms.gle/UbNtY9HHbRBaSz9KA)|
 
 #### Формула оценки:
 0.15 * **КР по питону** + 0.3 * **среднее по ДЗ** + 0.2 * **мини-тесты на семинарах** + 0.15 * **КР по андану** + 0.2 * **исследовательский проект**
