@@ -9,6 +9,9 @@
 |когда|тема|материалы|дз|
 |---|---|---|---|
 |09.09|Вводный семинар. Python. Арифметика и типы данных| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230909_python_intro_arithmetic.ipynb)|[задание](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/HW/HW1.ipynb) + [опрос](https://forms.gle/UbNtY9HHbRBaSz9KA)|
+|16.09|Условие if| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230916_ifelsebool.ipynb)||
+|16.09|Цикл while| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230916_while.ipynb)||
+|22.09|Списки и цикл for| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230922_listfor.ipynb)|[задание](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/HW/HW2.ipynb)|
 
 [Ведомость](https://docs.google.com/spreadsheets/d/1UPYKmbIIMYooy7m4CO-TMsMVk-JaeyHUoIJ68nZTZxQ/edit?usp=sharing)
 
