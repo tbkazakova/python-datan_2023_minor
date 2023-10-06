@@ -2,6 +2,8 @@
 
 Курс по питону и анализу данных для филолога и философа
 
+[Ведомость](https://docs.google.com/spreadsheets/d/1UPYKmbIIMYooy7m4CO-TMsMVk-JaeyHUoIJ68nZTZxQ/edit?usp=sharing)
+
 #### [Учебник по питону](https://edu.hse.ru/course/view.php?id=133389)
 #### [Учебник по анализу данных](https://edu.hse.ru/course/view.php?id=136231)
 
@@ -12,8 +14,10 @@
 |16.09|Условие if| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230916_ifelsebool.ipynb)||
 |16.09|Цикл while| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230916_while.ipynb)||
 |22.09|Списки и цикл for| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230922_listfor.ipynb)|[задание](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/HW/HW2.ipynb)|
+|29.09|Методы списков| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230929_methods.ipynb)||
+|30.09|Методы строк| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230930_strmethods.ipynb)||
+|06.09|Методы строк| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231006_setdict.ipynb)||
 
-[Ведомость](https://docs.google.com/spreadsheets/d/1UPYKmbIIMYooy7m4CO-TMsMVk-JaeyHUoIJ68nZTZxQ/edit?usp=sharing)
 
 #### Формула оценки:
 0.15 * **КР по питону** + 0.3 * **среднее по ДЗ** + 0.2 * **мини-тесты на семинарах** + 0.15 * **КР по андану** + 0.2 * **исследовательский проект**
