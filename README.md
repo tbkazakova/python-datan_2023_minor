@@ -17,6 +17,7 @@
 |29.09|Методы списков| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230929_methods.ipynb)||
 |30.09|Методы строк| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230930_strmethods.ipynb)|[задание](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/HW/HW3.ipynb)|
 |06.09|Множества и словари| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231006_setdict.ipynb)|[задание](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/HW/HW4.md)|
+|07.09|Словари, сортировки, вложенные структуры| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231007_dict_sort_structures.ipynb)||
 
 
 #### Формула оценки:
