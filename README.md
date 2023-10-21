@@ -16,9 +16,9 @@
 |22.09|Списки и цикл for| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230922_listfor.ipynb)|[задание](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/HW/HW2.ipynb)|
 |29.09|Методы списков| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230929_methods.ipynb)||
 |30.09|Методы строк| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/230930_strmethods.ipynb)|[задание](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/HW/HW3.ipynb)|
-|06.09|Множества и словари| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231006_setdict.ipynb)|[задание](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/HW/HW4.md)|
-|07.09|Словари, сортировки, вложенные структуры| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231007_dict_sort_structures.ipynb)||
-
+|06.10|Множества и словари| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231006_setdict.ipynb)|[задание](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/HW/HW4.md)|
+|07.10|Словари, сортировки, вложенные структуры| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231007_dict_sort_structures.ipynb)||
+|13.10|Функции|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231013_function.ipynb)||
 
 #### Формула оценки:
 0.15 * **КР по питону** + 0.3 * **среднее по ДЗ** + 0.2 * **мини-тесты на семинарах** + 0.15 * **КР по андану** + 0.2 * **исследовательский проект**
