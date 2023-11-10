@@ -19,6 +19,7 @@
 |06.10|Множества и словари| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231006_setdict.ipynb)|[задание](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/HW/HW4.md)|
 |07.10|Словари, сортировки, вложенные структуры| [тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231007_dict_sort_structures.ipynb)||
 |13.10|Функции|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231013_function.ipynb)||
+|13.10|Pymorphy и тренировка|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231013_pymorphy_training.ipynb)||
 |21.10|Файлы|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231021_files.ipynb)|[задание](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/HW/HW5.ipynb)|
 |23.10|Файлы. Частотный словарь|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231021_files%26freqdict.ipynb)||
 
