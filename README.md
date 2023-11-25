@@ -24,6 +24,7 @@
 |23.10|Файлы. Частотный словарь|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231021_files%26freqdict.ipynb)||
 |18.11|Регулярные выражения|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231118_re.ipynb)||
 |20.11|Краулеры и NER|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231120_html%26NER.ipynb)||
+|25.11|Краулеры и NER|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231125_numpy_pandas.ipynb)|[задание]|
 
 
 #### Формула оценки:
