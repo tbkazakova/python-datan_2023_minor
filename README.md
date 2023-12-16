@@ -25,6 +25,8 @@
 |18.11|Регулярные выражения|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231118_re.ipynb)||
 |20.11|Краулеры и NER|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231120_html%26NER.ipynb)||
 |25.11|Numpy и pandas|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231125_numpy_pandas.ipynb)|[задание](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/HW/HW6.ipynb)|
+|16.12|Описательная статистика, выбросы|[тетрадка]()||
+|16.12|T-test, хи-кватрат, TF-IDF|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231216_andan_examples.ipynb)||
 
 
 #### Формула оценки:
