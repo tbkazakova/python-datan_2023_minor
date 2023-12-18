@@ -27,6 +27,7 @@
 |25.11|Numpy и pandas|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231125_numpy_pandas.ipynb)|[задание](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/HW/HW6.ipynb)|
 |16.12|Описательная статистика, выбросы|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231216_tend%26var%26outliers.ipynb)||
 |16.12|T-test, хи-кватрат, TF-IDF|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231216_andan_examples.ipynb)||
+|18.12|Стилометрия|[тетрадка](https://github.com/tbkazakova/python-datan_2023_minor/blob/main/sem/231218_stylo.ipynb)||
 
 
 #### Формула оценки:
